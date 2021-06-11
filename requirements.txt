@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+sqlalchemy
+python-jose # for JWT
+passlib[bcrypt]
+python-multipart
